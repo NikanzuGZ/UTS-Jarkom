@@ -1,0 +1,16 @@
+Nama : Aloysius Gonzaga Exalta Budisuryono
+NIM : 20210801020
+UTS Jaringan Komputer
+1. Jelaskan menurut anda apa itu Routing static?
+	Routing static adalah sebuah Metode routing dimana administrator mengkonfigurasikan jaringan secara manual rute rute jaringan 
+ sesuai keinginan administrator dan rute tersebut tidak akan dapat berubah kecuali dirubah oleh adiminstrator sendiri.
+2. Jelaskan menurut anda ap aitu Routing Dynamic?
+	Routing Dynamic adalah sebuah metode routing Dimana router yang mengkonfigurasi jaringan dan rute jaringan secara otomatis. 
+ Router menggunakan protocol routing  untuk bertukar informasi mengenai kondisi jaringan. Dengan protokol routing tersebut membuat
+ router dapat memilih rute terbaik secara otomatis dan menyesuaikan jika terdapat perubahan sebuah rute terputus atau terhambat.
+3. Jelaskan menurut anda apa itu Firewall?
+	Firewall adalah sebuah sistem keamanan jaringan sebagai penghalang antara jaringan internal yang aman dengan jaringan eksternal 
+ yang tidak aman. Firewall memonitor, mengizinkan dan memblokir berdasarkan aturan yang disesuaikan administrator.
+4. Jelaskan menurut anda apa itu NAT?
+	NAT adalah sebuah teknologi jaringan yang digunakan untuk menerjemahkan Alamat ip Ketika terhubung ke router atau perangkat NAT.
+NAT dapat membuat 1 alamat ip publik yang dapat diakses oleh beberapa jaringan local.
